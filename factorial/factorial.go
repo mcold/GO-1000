@@ -15,5 +15,5 @@ func factorial(num uint) uint {
 func main() {
 	fmt.Println(factorial(5))
 	fmt.Println(factorial(4))
-	fmt.Println(factorial(0))
+	//	fmt.Println(factorial(0))
 }
